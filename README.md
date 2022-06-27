@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @senior-vu. I am a Senior Security Operations Engineer @ New York-Presbyterian Hospital for the Information Security Department
+- 👋 Hi, I’m @senor-vu. I am a Senior Security Operations Engineer @ New York-Presbyterian Hospital for the Information Security Department
 - 👀 I’m interested in food, becomming a better dev, DIY smart home projects
 - 🌱 I’m currently learning python stuffs: python, django, wagtail cms
 - 💞️ I’m looking to collaborate on Security and FOSS projects
