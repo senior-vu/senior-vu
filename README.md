@@ -2,7 +2,7 @@
 - 👀 I’m interested in food, becoming a better dev/engineer in cybersecurity, DIY smart home projects
 - 🌱 I’m currently learning python stuffs: python, django, wagtail cms
 - 💞️ I’m looking to collaborate on Security and FOSS projects
-- 📫 How to reach me cvv9003@nyp.org
+- 📫 How to reach me tonyvu@nyp.org
 
 <!---
 senior-vu/senior-vu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
